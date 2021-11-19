@@ -1,0 +1,1 @@
+A simple classification problem using ensemble learning. This should be on Kaggle why is it here? idk.
